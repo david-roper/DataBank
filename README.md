@@ -19,6 +19,12 @@ Researchers at institutions like the Douglas Research Centre often work with sen
 
 ## Getting Started (Development Setup)
 
+### Run Docker Container
+
+```shell
+docker compose -f docker-compose.dev.yaml up -d
+```
+
 ### Install Dependencies
 
 ```shell
